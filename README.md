@@ -1,6 +1,6 @@
 # firesmell
 
-![header](https://capsule-render.vercel.app/api?type=wavinge&color=auto&height=300&section=header&text=%20불향기%20프로젝트%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wavinge&color=auto&height=300&section=header&text=FIRE_SMELL%20render&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyu7776&show_icons=true&theme=dark)
 
